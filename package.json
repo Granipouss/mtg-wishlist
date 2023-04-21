@@ -23,9 +23,9 @@
     "typeorm": "0.2.25"
   },
   "devDependencies": {
-    "@angular-builders/custom-webpack": "^10.0.0",
+    "@angular-builders/custom-webpack": "^15.0.0",
     "@angular-builders/jest": "^10.0.0",
-    "@angular-devkit/build-angular": "~0.1000.2",
+    "@angular-devkit/build-angular": "~15.2.6",
     "@angular/animations": "~10.0.3",
     "@angular/cli": "~10.0.2",
     "@angular/common": "~10.0.3",
